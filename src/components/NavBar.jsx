@@ -75,7 +75,7 @@ function NavBar() {
         </div>
       </nav>
       {/* Mobile menu */}
-      <MobileMenu />
+      <MobileMenu color="bg-slate-900" />
     </div>
   );
 }
