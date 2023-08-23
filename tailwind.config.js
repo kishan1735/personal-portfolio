@@ -7,7 +7,7 @@ export default {
       md: "768px",
       lg: "976px",
       xl: "1440px",
-      kxl: "1700px",
+      kxl: "1800px",
     },
     extend: {
       fontFamily: { sans: ["Josefin Sans", "sans-serif"], alata: ["Alata"] },
