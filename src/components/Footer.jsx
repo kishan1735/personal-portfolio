@@ -92,7 +92,7 @@ function Footer() {
 
               <div className="h-8 group">
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/the_kk_unveiled/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className=""

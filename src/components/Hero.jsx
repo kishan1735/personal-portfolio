@@ -29,7 +29,7 @@ function Hero() {
           {/* Navbar */}
           <nav className="flex justify-between items-center pl-10 py-10">
             {/* Name  */}
-            <div className="font-bold px-3 py-2 opacity-40 bg-white">
+            <div className="font-bold px-2 md:px-3 py-2 opacity-40 bg-white">
               <h3 className="text-3xl text-black z-10 opacity:100 font-sans uppercase font-bold tracking-widest drop-shadow-2xl">
                 Kishan Abijay
               </h3>
