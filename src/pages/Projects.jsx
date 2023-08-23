@@ -5,7 +5,7 @@ function Projects() {
   return (
     <div className="container max-w-screen-kxl my-0 pt-0 p-2 md:p-10 md:pt-0 min-h-screen md:h-full h-full text-black  bg-slate-900">
       <NavBar />
-      <div className="relative p-5 py-10 md:px-10 rounded-xl my-10 bg-white opacity-80 shadow-lg min-w-screen">
+      <div className="relative p-5 py-10 md:px-10 mt-20 rounded-xl my-10 bg-white opacity-80 shadow-lg min-w-screen">
         <div className="flex z-10 space-x-4">
           <div className="text-3xl">
             <h2 className="max-w-lg mt-10 md:mt-15 mb-6 font-sans text-6xl font-bold text-center text-gray-900 uppercase md:text-5xl md:mt-0 md:text-left ">
