@@ -2,7 +2,7 @@ import NavBar from "../components/NavBar";
 
 function Skills() {
   return (
-    <div className="container max-w-7xl my-0 pt-0 p-2 md:p-10 md:pt-0 h-full 2xl:h-screen  text-black  bg-slate-900 text-center md:text-start">
+    <div className="container w-screen max-w-7xl my-0 pt-0 p-2 md:p-10 md:pt-0 h-full min-h-screen 2xl:h-screen  text-black  bg-slate-900 text-center md:text-start">
       <NavBar />
       <div className="relative p-10 rounded-xl my-5 bg-white opacity-90 shadow-lg">
         <div className="flex z-10 space-x-4 justify-center md:justify-start">
