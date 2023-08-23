@@ -1,6 +1,6 @@
 import { useState } from "react";
-import ImageContainer1 from "./ImageContainer1";
-import ImageContainer2 from "./ImageContainer2";
+import ImageContainer3 from "./ImageContainer3";
+import ImageContainer4 from "./ImageContainer4";
 
 function ProjectImg() {
   const [show, setShow] = useState(false);
@@ -22,8 +22,8 @@ function ProjectImg() {
           </button>
         </div>
         <div className="mt-10">
-          <ImageContainer1 />
-          {show ? <ImageContainer2 /> : ""}
+          <ImageContainer3 />
+          {show ? <ImageContainer4 /> : ""}
         </div>
 
         {/* Bottom Button Container*/}
