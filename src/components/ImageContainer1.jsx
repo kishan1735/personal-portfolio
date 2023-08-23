@@ -1,6 +1,6 @@
 function ImageContainer1() {
   return (
-    <div className="item-container">
+    <div className="item-container2 capitalize">
       <div className="group relative overflow-hidden md:w-1/3 rounded-sm">
         {/* Desktop */}
         <img
@@ -17,7 +17,9 @@ function ImageContainer1() {
         {/* Item Gradient */}
         <div className="item-gradient"></div>
         {/* Item text */}
-        <h5>Deep Earth</h5>
+        <h5 className="z-10 text-black text-center mt-5">
+          <span className="font-semibold">Node Farm</span>- a Backend project
+        </h5>
       </div>
       <div className="group relative overflow-hidden md:w-1/3">
         {/* Desktop */}
@@ -35,7 +37,10 @@ function ImageContainer1() {
         {/* Item Gradient */}
         <div className="item-gradient"></div>
         {/* Item text */}
-        <h5>Deep Earth</h5>
+        <h5 className="z-10 text-black text-center mt-5">
+          <span className="font-semibold">Worldwise</span> - A React based
+          project working with maps
+        </h5>
       </div>
       <div className="group relative overflow-hidden md:w-1/3">
         {/* Desktop */}
@@ -49,7 +54,10 @@ function ImageContainer1() {
         {/* Item Gradient */}
         <div className="item-gradient"></div>
         {/* Item text */}
-        <h5>Night Arcade</h5>
+        <h5 className="z-10 text-black text-center mt-5">
+          <span className="font-semibold">MovieHub</span>- a OMDb API based
+          project
+        </h5>
       </div>
     </div>
   );
