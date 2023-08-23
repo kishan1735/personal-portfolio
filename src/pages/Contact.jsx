@@ -2,7 +2,7 @@ import NavBar from "../components/NavBar";
 
 function Contact() {
   return (
-    <div className="container min-w-screen my-0 pt-0 p-2 md:p-10 md:pt-0 h-[590px] min-h-screen md:h-screen  text-black  bg-slate-900">
+    <div className="container max-w-9xl my-0 pt-0 p-2 md:p-10 md:pt-0 h-[590px] min-h-screen md:h-screen  text-black  bg-slate-900">
       <NavBar />
       <div className="relative p-10 rounded-xl my-5 bg-white opacity-80 shadow-lg min-w-screen">
         <div className="flex z-10 space-x-4">
